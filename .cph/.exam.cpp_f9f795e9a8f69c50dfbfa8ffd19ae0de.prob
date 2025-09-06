@@ -1,0 +1,1 @@
+{"name":"Local: exam","url":"/Users/rayhanahmedjeyam/Codeforces/exam.cpp","tests":[{"id":1756020827660,"input":"4\n1 3 2 5","output":"7"},{"id":1756021884129,"input":"4\n1 6 12 6","output":"13"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/rayhanahmedjeyam/Codeforces/exam.cpp","group":"local","local":true}

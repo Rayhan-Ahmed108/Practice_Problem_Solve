@@ -1,0 +1,1 @@
+{"name":"Local: b","url":"/Users/rayhanahmedjeyam/Codeforces/b.cpp","tests":[{"id":1755011062877,"input":"1\n12 16","output":"1 1 1 2 1 1 1 2 2 1 1 2 1 1 1 3 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/rayhanahmedjeyam/Codeforces/b.cpp","group":"local","local":true}
